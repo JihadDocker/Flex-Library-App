@@ -1,7 +1,9 @@
-###FLEX Library Management System
-This flex library management system project is from my job application coding scratch and I developed it in advanced. Hope you like it. No yet perfect...
+### FLEX Library Management System
+This is an responsive & flexible library management system project from my recent job application coding scratch and I developed it in advanced at home. Hope you like it. 
+No yet perfect... Improve it..
 
 Implemented with PHP, Bootstrap(Flat UI), Apache, HTML.
+
 
 
 # Installations
